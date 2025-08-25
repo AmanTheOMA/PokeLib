@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Header } from "./Components/Header";
-import { SideNav } from "./Components/Sidenav";
+import { SideNav } from "./Components/SideNav";
 import { PokeCard } from "./Components/PokeCard";
 
 function App() {
